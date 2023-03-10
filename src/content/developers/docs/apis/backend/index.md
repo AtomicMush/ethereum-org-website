@@ -38,6 +38,12 @@ These libraries abstract away much of the complexity of interacting directly wit
 - [Documentation](https://docs.blastapi.io)
 - [Discord](https://discord.com/invite/VPkWESgtvV)
 
+**Uniblock -** **_Unified APIs and Tooling for any Blockchain project._**
+
+- [Uniblock.dev](https://www.uniblock.dev/)
+- [Documentation](https://docs.uniblock.dev/)
+- [Discord](https://discord.gg/cTRrqmNQhX)
+
 **Infura -** **_The Ethereum API as a service._**
 
 - [infura.io](https://infura.io)
